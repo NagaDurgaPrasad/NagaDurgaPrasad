@@ -18,5 +18,5 @@
    <img width="40px" alt="nodejs" src="https://user-images.githubusercontent.com/7942452/147740356-5e814a80-0dfc-4e6f-a3c1-514223a655d2.png" />
    <img width="40px" alt="mysql" src="https://user-images.githubusercontent.com/7942452/147741142-ed628c72-bf7f-4847-a7a6-eaa950503ffb.png" />
    <img width="40px" alt="elasticsearch" src="https://user-images.githubusercontent.com/7942452/147740618-64645ea0-f60e-4a23-891a-f0014c607af9.png" />
-   <img width="40px" alt="git" src="https://user-images.githubusercontent.com/7942452/147740760-f8073b1f-5f3e-44fc-b2d2-f2db9843c9b9.png" />
+   <img width="40px" alt="git" src="https://user-images.githubusercontent.com/7942452/147741517-086ea98a-1f80-4cee-b895-c4192fda456a.png" />
    <img width="40px" alt="docker" src="https://user-images.githubusercontent.com/7942452/147740814-8d57013e-9103-4089-9be1-bc1497d143e7.png" />
