@@ -14,7 +14,7 @@
    <img width="40px" alt="css" src="https://user-images.githubusercontent.com/7942452/147740491-7255fd69-5447-42c3-998b-1455757c3400.png" />
    <img width="40px" alt="grails" src="https://user-images.githubusercontent.com/7942452/147739980-a5fcdd2d-c3e0-4a18-ac18-126fb09e513f.png" />
    <img width="40px" alt="spring" src="https://user-images.githubusercontent.com/7942452/147740924-afe373fe-bd4a-4f9c-aaa1-f79b9b3910fb.png" />
-   <img width="40px" alt="micronaut" src="https://user-images.githubusercontent.com/7942452/147740561-e5486b83-e01f-4e78-bc4f-13029a916475.png" />
+   <img width="40px" alt="micronaut" src="https://user-images.githubusercontent.com/7942452/147741391-20faa4e2-a7ce-45f5-9275-8825d6002320.png" />
    <img width="40px" alt="nodejs" src="https://user-images.githubusercontent.com/7942452/147740356-5e814a80-0dfc-4e6f-a3c1-514223a655d2.png" />
    <img width="40px" alt="mysql" src="https://user-images.githubusercontent.com/7942452/147741142-ed628c72-bf7f-4847-a7a6-eaa950503ffb.png" />
    <img width="40px" alt="elasticsearch" src="https://user-images.githubusercontent.com/7942452/147740618-64645ea0-f60e-4a23-891a-f0014c607af9.png" />
