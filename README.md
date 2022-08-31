@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### I'm Prasad, fullstack developer !!
-- **Job:** Currently, working as a Sr. Project lead at OPENPRISE
+- **Job:** Currently, working as a Staff Engineer at OPENPRISE
 - **Experience:** 7+ years of working experience
 - **Qualification:** Master of Computer Applications
 - **Location:** Hyderabad, Telangana, India.
